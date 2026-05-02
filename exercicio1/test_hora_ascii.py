@@ -1,5 +1,5 @@
 import unittest
-from solution import seven_segmentify
+from hora_ascii import seven_segmentify
 
 class Testseven_segmentify(unittest.TestCase):
     def test_13_24(self):
