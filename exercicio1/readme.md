@@ -1,4 +1,3 @@
-3 Tarefa 
 Neste desafio, sua missão é criar um relógio que mostre horas simulando relógio digital, para isso será preciso converter uma string de tempo no formato "11:03" em uma representação ASCII de um display de 7 segmentos.
 
 Por exemplo, o tempo "13:24" deve ser convertido pela sua função para
